@@ -1,14 +1,17 @@
-![Codebound Worlds Logo](/assets/logo.png)
+![Codebound Worlds Logo](../assets/logo.png)
 
 # Welcome to Codebound Worlds
+
 Hello and welcome! We're thrilled you've found your way to the official repository for Codebound Worlds, a dynamic game development startup based in Manila, Philippines. This is where we shape our dreams into reality - creating unique and immersive gaming experiences.
 
 ## For Our Engineers:
+
 This space serves as a collaborative platform for all of us. Here, we'll be working together on various projects that will define the future of gaming. Feel free to explore, create branches, submit pull requests and make use of this shared workspace.
 
 Remember: Every contribution counts towards building something amazing!
 
 ## For Other Contributors:
+
 We are delighted to have you here! Your interest in contributing to our projects means a lot. Whether it's submitting issues or providing suggestions for improvements, every bit helps in making our games better.
 
 Before getting started with contributing though, please ensure you read through any project-specific guidelines available within each project directory.
