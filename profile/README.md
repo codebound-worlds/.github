@@ -1,5 +1,3 @@
-![Codebound Worlds Logo](../assets/logo.png)
-
 # Welcome to Codebound Worlds
 
 Hello and welcome! We're thrilled you've found your way to the official repository for Codebound Worlds, a dynamic game development startup based in Manila, Philippines. This is where we shape our dreams into reality - creating unique and immersive gaming experiences.
